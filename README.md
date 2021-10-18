@@ -1,0 +1,3 @@
+- Interested in networking, cloud, DevOps, architecture.
+- 
+- Mostly writing this so github will stop asking me to.
